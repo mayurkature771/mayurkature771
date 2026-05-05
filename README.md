@@ -75,15 +75,10 @@ Financial analytics system for calculating revenue, costs, and profit margins.
 
 ---
 
-## 📈 GitHub Stats
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
----
-
 ## 📫 Contact Me
 - 📧 Email: mayurkature771@gmail.com  
 - 📱 Phone: +91 9356794037  
-- 💼 LinkedIn: (Add your link here)
+- 💼 LinkedIn:https://www.linkedin.com/in/mayur-kature-3a334b405/
 
 ---
 
